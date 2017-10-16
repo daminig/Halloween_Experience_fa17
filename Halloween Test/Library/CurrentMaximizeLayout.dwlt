@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 713, y: 492}
   m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 1017
+  controlID: 1343
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -124,7 +124,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
-  controlID: 1018
+  controlID: 1118
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -143,8 +143,8 @@ MonoBehaviour:
     y: 0
     width: 704
     height: 415
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 5}
   m_Panes:
   - {fileID: 5}
@@ -183,9 +183,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.6420059, y: 1.8594213, z: -51.034264}
+    m_Target: {x: -3.2889402, y: 2.5650964, z: -30.710855}
     speed: 2
-    m_Value: {x: -1.6420059, y: 1.8594213, z: -51.034264}
+    m_Value: {x: -3.2889402, y: 2.5650964, z: -30.710855}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -208,13 +208,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.26047173, y: -0.15909974, z: 0.043875374, w: -0.9512712}
+    m_Target: {x: -0.19345264, y: -0.24642733, z: 0.050583087, w: -0.9483097}
     speed: 2
-    m_Value: {x: -0.26047173, y: -0.15909974, z: 0.043875374, w: -0.9512711}
+    m_Value: {x: -0.19345261, y: -0.2464273, z: 0.05058308, w: -0.9483096}
   m_Size:
-    m_Target: 11.141753
+    m_Target: 8.865401
     speed: 2
-    m_Value: 11.141753
+    m_Value: 8.865401
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
   m_LastLockedObject: {fileID: 0}
-  m_ViewIsLockedToObject: 1
+  m_ViewIsLockedToObject: 0
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -285,8 +285,8 @@ MonoBehaviour:
     y: 415
     width: 704
     height: 229
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 2}
@@ -371,7 +371,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 969
+  controlID: 1344
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -424,26 +424,26 @@ MonoBehaviour:
     width: 361
     height: 318
   m_TreeViewState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 14fcffff
-    m_LastClickedID: -1004
-    m_ExpandedIDs: 16fcffff18fcffff00000000
+    scrollPos: {x: 0, y: 403}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 82c1ffff80c8fffff8c9ffffc8d0ffff10fcffff16fcffff18fcffff00000000d4510000fa540000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: wallA (1)
+      m_OriginalName: wallA (1)
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: -1510
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 0
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 11}
     m_SearchString: 
   m_ExpandedScenes:
   - Hall_2
@@ -468,8 +468,8 @@ MonoBehaviour:
     y: 339
     width: 365
     height: 305
-  m_MinSize: {x: 230, y: 250}
-  m_MaxSize: {x: 10000, y: 10000}
+  m_MinSize: {x: 234, y: 271}
+  m_MaxSize: {x: 10004, y: 10021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -513,19 +513,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/HorrorEnvironment_Hospital
+    - Assets/_Scenes
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/HorrorEnvironment_Hospital
+  - Assets/_Scenes
   m_LastFoldersGridSize: 16
   m_LastProjectPath: /home/goldameir/Garbage/unity-editor-2017.1.1xf1Linux/Projects/Halloween_Experience_fa17/Halloween
     Test
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 14290000
-    m_LastClickedID: 10516
+    m_SelectedIDs: 622e0000
+    m_LastClickedID: 11874
     m_ExpandedIDs: 000000006227000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -579,24 +579,24 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 14fcffff
-    m_LastClickedInstanceID: -1004
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 
+    m_LastClickedInstanceID: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: 78060000fc2b080000000000e838ffff845efcff062500005a220000dc31000082230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Hall_2
+      m_OriginalName: Hall_2
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 10308
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 13}
     m_CreateAssetUtility:
