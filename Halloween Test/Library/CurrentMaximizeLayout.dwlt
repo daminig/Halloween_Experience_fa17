@@ -21,10 +21,10 @@ MonoBehaviour:
     y: 30
     width: 1366
     height: 644
-  m_MinSize: {x: 713, y: 492}
-  m_MaxSize: {x: 18008, y: 14042}
+  m_MinSize: {x: 711, y: 492}
+  m_MaxSize: {x: 18006, y: 14042}
   vertical: 0
-  controlID: 6388
+  controlID: 2596
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -121,10 +121,10 @@ MonoBehaviour:
     y: 0
     width: 737
     height: 644
-  m_MinSize: {x: 202, y: 442}
-  m_MaxSize: {x: 4002, y: 8042}
+  m_MinSize: {x: 202, y: 421}
+  m_MaxSize: {x: 4002, y: 8021}
   vertical: 1
-  controlID: 6389
+  controlID: 2567
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -143,8 +143,8 @@ MonoBehaviour:
     y: 0
     width: 737
     height: 423
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 5}
   m_Panes:
   - {fileID: 5}
@@ -178,14 +178,14 @@ MonoBehaviour:
     width: 735
     height: 402
   m_SceneLighting: 1
-  lastFramingTime: 615.2412161827087
+  lastFramingTime: 372.23232984542847
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.68429923, y: 2.5025494, z: 65.87584}
+    m_Target: {x: -3.4618967, y: 2.3090363, z: 70.44556}
     speed: 2
-    m_Value: {x: 0.68429923, y: 2.5025494, z: 65.87584}
+    m_Value: {x: -3.4618967, y: 2.3090363, z: 70.44556}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -208,19 +208,19 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0, y: 0, z: 0, w: 1}
+    m_Target: {x: 0.04024658, y: -0.10918192, z: 0.004424337, w: 0.99319685}
     speed: 2
-    m_Value: {x: -0, y: 0, z: -0, w: -1}
+    m_Value: {x: 0.04024658, y: -0.10918192, z: 0.004424337, w: 0.99319685}
   m_Size:
-    m_Target: 9.177424
+    m_Target: 11.243748
     speed: 2
-    m_Value: 9.177424
+    m_Value: 11.243748
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
-  m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
-  m_LastSceneViewOrtho: 0
+  m_LastSceneViewRotation: {x: 0, y: -0.70710677, z: 0, w: 0.70710677}
+  m_LastSceneViewOrtho: 1
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
   m_LastLockedObject: {fileID: 0}
@@ -355,7 +355,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 492}
   m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
-  controlID: 6363
+  controlID: 2504
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -408,24 +408,24 @@ MonoBehaviour:
     width: 299
     height: 318
   m_TreeViewState:
-    scrollPos: {x: 0, y: 687}
-    m_SelectedIDs: 943a0000
-    m_LastClickedID: 14996
-    m_ExpandedIDs: 18fcffff00000000ce350000703600009e360000d83700005438000050390000c8390000e23900004c3a0000563a0000183b0000983b0000283c0000543c0000703c0000b23d00000a3e0000623e0000963e0000123f000014400000e640000056410000
+    scrollPos: {x: 0, y: 1131}
+    m_SelectedIDs: 2c370000
+    m_LastClickedID: 14124
+    m_ExpandedIDs: 18fcffff00000000ea3900008c3a0000883c0000323e0000b83f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: lamp_B
-      m_OriginalName: lamp_B
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 15444
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 11}
     m_SearchString: 
@@ -452,8 +452,8 @@ MonoBehaviour:
     y: 339
     width: 303
     height: 305
-  m_MinSize: {x: 234, y: 271}
-  m_MaxSize: {x: 10004, y: 10021}
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -497,20 +497,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/HorrorEnvironment_Hospital/Scripts
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/HorrorEnvironment_Hospital/Scripts
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /home/goldameir/Garbage/unity-editor-2017.1.1xf1Linux/Projects/Halloween_Experience_fa17/Halloween
     Test
   m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 16290000
-    m_LastClickedID: 10518
-    m_ExpandedIDs: 0000000060280000be2a00001c2c0000bc2d00006c3200009632000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: 8c280000
+    m_LastClickedID: 10380
+    m_ExpandedIDs: 000000008c280000ea2a0000f22b0000482c0000e82d000098320000c23200001e33000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -538,7 +538,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000602800001c2c0000bc2d00006c3200009632000000ca9a3bffffff7f
+    m_ExpandedIDs: 000000008c280000ea2a0000f22b0000482c0000e82d000098320000c23200001e33000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -563,8 +563,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 943a0000
-    m_LastClickedInstanceID: 14996
+    m_SelectedInstanceIDs: 2c370000
+    m_LastClickedInstanceID: 14124
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: be30000068320000
     m_RenameOverlay:
@@ -590,9 +590,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 119.5}
+    m_ScrollPosition: {x: 0, y: 491.5}
     m_GridSize: 64
-  m_DirectoriesAreaWidth: 110
+  m_DirectoriesAreaWidth: 179
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -611,8 +611,8 @@ MonoBehaviour:
     y: 0
     width: 326
     height: 644
-  m_MinSize: {x: 277, y: 71}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -645,7 +645,7 @@ MonoBehaviour:
     y: 123
     width: 324
     height: 623
-  m_ScrollPosition: {x: 0, y: 60.95508}
+  m_ScrollPosition: {x: 0, y: 218.95508}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: 139
