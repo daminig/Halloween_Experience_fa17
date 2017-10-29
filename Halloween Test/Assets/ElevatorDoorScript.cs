@@ -4,20 +4,21 @@ using UnityEngine;
 
 public class ElevatorDoorScript : MonoBehaviour {
 
-        public Animation anim;
+        public Animator anim;
+        public GameObject elevator_jamb;
 
 	// Use this for initialization
 	void Start () {
-            
+           anim = elevator_jamb.GetComponent<Animator>();   
 	}
 	
 	// Update is called once per frame
 	void Update () {
 		
 	}
-        /*
+        
         void OnTriggerEnter(Collider other) {
-            anim.Play(); /*anim.clip.name
+            anim.SetBool("CubeBool", true);
         }
-        */
+        
 }
