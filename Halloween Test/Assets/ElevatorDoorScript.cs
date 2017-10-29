@@ -5,11 +5,11 @@ using UnityEngine;
 public class ElevatorDoorScript : MonoBehaviour {
 
         public Animator anim;
-        public GameObject elevator_jamb;
+        public GameObject elevator;
 
 	// Use this for initialization
 	void Start () {
-           anim = elevator_jamb.GetComponent<Animator>();   
+           anim = elevator.GetComponent<Animator>();   
 	}
 	
 	// Update is called once per frame
@@ -18,7 +18,7 @@ public class ElevatorDoorScript : MonoBehaviour {
 	}
         
         void OnTriggerEnter(Collider other) {
-            anim.SetBool("CubeBool", true);
+            anim.SetBool("CubeBool2", true);
         }
         
 }
